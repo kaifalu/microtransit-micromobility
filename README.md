@@ -1,29 +1,33 @@
 # microtransit-micromobility
+## Data
 GTFS: https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#agencytxt <br>
-UCI: https://archive.ics.uci.edu/ml/datasets.php
-Weather: https://www.ncei.noaa.gov/data/normals-hourly/2006-2020/
-Google Image Collection: https://github.com/sunnyqywang/Chicago-Integrated-Data-Repo
-Integrated Smart Chicago Data Set: https://github.com/sunnyqywang/Chicago-Integrated-Data-Repo/blob/main/SmartChicagoData_v0.markdown
-Forecast of city bikeshare system’s use / rentals: https://obrunet.github.io/data%20science/Bike_sharing/
-Bike trip data in Philadelphia: https://www.rideindego.com/about/data/
-Bicycling in NY: https://www.nyc.gov/html/dot/html/bicyclists/cyclinginthecity.shtml
-Bike trip data in NY: https://citibikenyc.com/system-data
-Data Feed in NY: https://www.nyc.gov/html/dot/html/about/datafeeds.shtml
-Citywide mobility survey report in NY: https://www.nyc.gov/html/dot/html/about/citywide-mobility-survey.shtml
-Bikesharing and E-scooter system in the US: https://data.bts.gov/stories/s/Bikeshare-and-e-scooters-in-the-U-S-/fwcs-jprj/
-Bikesharetrip data in Washington D.C.: https://capitalbikeshare.com/system-data
-GTFS data in Washington D.C.: https://openmobilitydata.org/p/wmata/75?p=1
-GTFS data in US: https://openmobilitydata.org/feeds
-Integrated_modeling_GMNS - Traffic Network Modelling (Road Network in US): https://github.com/asu-trans-ai-lab/Integrated_modeling_GMNS; https://asu-trans-ai-lab.github.io/web/index.html#/
-OSM Highway Density Statistics: https://www.routino.org/extras/statistics/
-StreetLight Data: https://www.transportation.gov/policy-initiatives/solving-safety/streetlight-data
-US Traffic Data Resources: https://www.transportation.gov/solve4safety/resources
-FDOT RCI (Roadway Characteristics Inventory) Handbook: https://www.fdot.gov/statistics/rci/default.shtm
-Mobility Performance Measures: https://ops.fhwa.dot.gov/publications/fhwahop20028/index.htm
-Shared Fleet Data and Application Programming Interface (API): https://ddot.dc.gov/page/dockless-api
-Shared Micromobility Program: https://nacto.org/shared-micromobility-2019/
-RITIS: https://ritis.org/intro; https://ritis.org/traffic/
-Python for Transportation: https://pytransport.github.io/course-content/starting/quickstart.html
-Florida ACS data: https://fgdl.org/ords/prod/r/fgdl-explorer146/v-archive-fgdl-q
+UCI (ML dataset): https://archive.ics.uci.edu/ml/datasets.php <br>
+Weather: https://www.ncei.noaa.gov/data/normals-hourly/2006-2020/ <br>
+Integrated Smart Chicago Data Set: https://github.com/sunnyqywang/Chicago-Integrated-Data-Repo/blob/main/SmartChicagoData_v0.markdown <br>
+Bike trip data in Philadelphia: https://www.rideindego.com/about/data/ <br>
+Bicycling in NY: https://www.nyc.gov/html/dot/html/bicyclists/cyclinginthecity.shtml <br>
+Bike trip data in NY: https://citibikenyc.com/system-data <br>
+Data Feed in NY: https://www.nyc.gov/html/dot/html/about/datafeeds.shtml <br>
+Citywide mobility survey report in NY: https://www.nyc.gov/html/dot/html/about/citywide-mobility-survey.shtml <br>
+Bikesharing and E-scooter system in the US: https://data.bts.gov/stories/s/Bikeshare-and-e-scooters-in-the-U-S-/fwcs-jprj/ <br>
+Bikesharetrip data in Washington D.C.: https://capitalbikeshare.com/system-data <br>
+GTFS data in Washington D.C.: https://openmobilitydata.org/p/wmata/75?p=1 <br>
+GTFS data in US: https://openmobilitydata.org/feeds <br>
+Integrated_modeling_GMNS - Traffic Network Modelling (Road Network in US): https://github.com/asu-trans-ai-lab/Integrated_modeling_GMNS; https://asu-trans-ai-lab.github.io/web/index.html#/ <br>
+OSM Highway Density Statistics: https://www.routino.org/extras/statistics/ <br>
+StreetLight Data: https://www.transportation.gov/policy-initiatives/solving-safety/streetlight-data <br>
+US Traffic Data Resources: https://www.transportation.gov/solve4safety/resources <br>
+FDOT RCI (Roadway Characteristics Inventory) Handbook: https://www.fdot.gov/statistics/rci/default.shtm <br>
+Mobility Performance Measures: https://ops.fhwa.dot.gov/publications/fhwahop20028/index.htm <br>
+Shared Micromobility Program: https://nacto.org/shared-micromobility-2019/ <br>
+RITIS: https://ritis.org/intro; https://ritis.org/traffic/ <br>
+Florida ACS data: https://fgdl.org/ords/prod/r/fgdl-explorer146/v-archive-fgdl-q <br>
 
-resilience_shenzhen mode and codes: https://github.com/Charles117/resilience_shenzhen
+## Tool
+Google Image Collection: https://github.com/sunnyqywang/Chicago-Integrated-Data-Repo <br>
+Shared Fleet Data and Application Programming Interface (API): https://ddot.dc.gov/page/dockless-api <br>
+
+## Code
+Forecast of city bikeshare system’s use / rentals: https://obrunet.github.io/data%20science/Bike_sharing/ <br>
+resilience_shenzhen mode and codes: https://github.com/Charles117/resilience_shenzhen <br>
+Python for Transportation: https://pytransport.github.io/course-content/starting/quickstart.html <br>
