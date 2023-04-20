@@ -1,5 +1,5 @@
 # microtransit-micromobility
-GTFS: https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#agencytxt break;
+GTFS: https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#agencytxt <br>
 UCI: https://archive.ics.uci.edu/ml/datasets.php
 Weather: https://www.ncei.noaa.gov/data/normals-hourly/2006-2020/
 Google Image Collection: https://github.com/sunnyqywang/Chicago-Integrated-Data-Repo
