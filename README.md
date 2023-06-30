@@ -3,6 +3,7 @@
 GTFS: https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#agencytxt <br>
 UCI (ML dataset): https://archive.ics.uci.edu/ml/datasets.php <br>
 Weather: https://www.ncei.noaa.gov/data/normals-hourly/2006-2020/ <br>
+Washington DC Weather: https://www.ncdc.noaa.gov/cdo-web/datasets/LCD/stations/WBAN:13743/detail <br>
 Integrated Smart Chicago Data Set: https://github.com/sunnyqywang/Chicago-Integrated-Data-Repo/blob/main/SmartChicagoData_v0.markdown <br>
 Bike trip data in Philadelphia: https://www.rideindego.com/about/data/ <br>
 Bicycling in NY: https://www.nyc.gov/html/dot/html/bicyclists/cyclinginthecity.shtml <br>
