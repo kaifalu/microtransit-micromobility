@@ -9,6 +9,8 @@ Bike trip data in Philadelphia: https://www.rideindego.com/about/data/ <br>
 Bicycling in NY: https://www.nyc.gov/html/dot/html/bicyclists/cyclinginthecity.shtml <br>
 Bike trip data in NY: https://citibikenyc.com/system-data <br>
 Data Feed in NY: https://www.nyc.gov/html/dot/html/about/datafeeds.shtml <br>
+E-scooter Data In Chicago: https://data.cityofchicago.org/Transportation/E-Scooter-Trips-2019-Pilot/2kfw-zvte <br>
+Bike Data In Chicago: https://data.cityofchicago.org/Transportation/Divvy-Trips/fg6s-gzvg <br>
 Citywide mobility survey report in NY: https://www.nyc.gov/html/dot/html/about/citywide-mobility-survey.shtml <br>
 Bikesharing and E-scooter system in the US: https://data.bts.gov/stories/s/Bikeshare-and-e-scooters-in-the-U-S-/fwcs-jprj/ <br>
 Bikesharetrip data in Washington D.C.: https://capitalbikeshare.com/system-data <br>
