@@ -11,6 +11,8 @@ Boston Metro (BLUEbikes): https://bluebikes.com/system-data <br>
 Chattanooga TN (Bike): https://www.chattadata.org/Recreation/Bike-Chattanooga-Usage-per-Year/27dx-era6 <br>
 Columbus, OH (CoGo): https://cogobikeshare.com/system-data <br>
 Pittsburgh, PA (POGOH): https://data.wprdc.org/organization/pogoh <br>
+Portland, OR (Bike Town): https://ride.biketownpdx.com/system-data <br>
+San Francisco, CA (Bay Wheels): https://www.lyft.com/bikes/bay-wheels/system-data <br>
 Weather: https://www.ncei.noaa.gov/data/normals-hourly/2006-2020/ <br>
 Washington DC Weather: https://www.ncdc.noaa.gov/cdo-web/datasets/LCD/stations/WBAN:13743/detail <br>
 Integrated Smart Chicago Data Set: https://github.com/sunnyqywang/Chicago-Integrated-Data-Repo/blob/main/SmartChicagoData_v0.markdown <br>
