@@ -1,5 +1,6 @@
 # microtransit-micromobility
 ## Data
+Bike Share Map: https://bikesharemap.com/#/3/-150/30/ <br>
 Global Micromobility Dashboard: https://public.ridereport.com/ <br>
 US Micromobility System: https://data.bts.gov/stories/s/fseh-ipec <br>
 GTFS: https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#agencytxt <br>
